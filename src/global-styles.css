@@ -47,6 +47,15 @@ h6 {
   isolation: isolate;
 }
 
+fieldset {
+  border: none;
+  padding: 0;
+}
+
+legend {
+  float: left;
+}
+
 /* Custom global styles */
 html {
   color-scheme: dark;
